@@ -1,0 +1,12 @@
+{
+  "name": "chua-an-nhien-online",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Multiplayer temple game with independent UI and clean pixel-art scene",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
